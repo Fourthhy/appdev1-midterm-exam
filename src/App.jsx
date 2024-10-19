@@ -37,7 +37,7 @@ function App() {
           </div>
         </div>
       </div>
-
+      {/* Cafe Menu */}
       <div id="menu" class="parallax-window" data-parallax="scroll" data-image-src="img/antique-cafe-bg-02.jpg">
         <div class="container mx-auto tm-container py-24 sm:py-48">
           <div class="text-center mb-16">
